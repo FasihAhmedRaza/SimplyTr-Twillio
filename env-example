@@ -1,0 +1,12 @@
+# Twilio Credentials
+TWILIO_ACCOUNT_SID=
+TWILIO_TOKEN=
+TWILIO_WHATSAPP_NUMBER=
+# Dialogflow Configuration
+DIALOGFLOW_PROJECT_ID=
+
+# Optional: Server Port
+PORT=3000
+
+# Optional: For service account authentication
+GOOGLE_APPLICATION_CREDENTIALS=
